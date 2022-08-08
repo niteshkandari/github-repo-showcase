@@ -51,7 +51,7 @@ function Slider(props: any) {
             children="
             Hoila 🔥 ,Welcome to my git hub portfolio,
             This app is built using react, 
-            chakra ui and for getting all the repository 
+            chakra ui and for getting all the repositories
             data Github api is used."
           />
         </Box>
